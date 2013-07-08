@@ -1,0 +1,8 @@
+Change-Id: I7c953229b786512054956bd6e93796fd2ca1d527
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:39:03 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4942
+Project: platform/upstream/xf86miscproto
+Branch: refs/heads/tizen
